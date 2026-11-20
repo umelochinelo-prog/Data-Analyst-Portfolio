@@ -59,4 +59,19 @@ Power BI Desktop, Power Query, DAX
 
 [Download the Power BI file](Hospital%20Patient.pbix)
 
+## Project 3: NHS 12 Hour Waits for a Hospital Bed (Excel)
+
+Tools: Microsoft Excel
+
+Data: Official NHS England A&E Attendances and Emergency Admissions data, March 2026.
+
+Goal: Find which NHS areas in England had the highest and lowest share of emergency admissions waiting over 12 hours for a hospital bed.
+
+Key findings:
+- Across England, 46,665 out of 553,892 emergency admissions (8.4%) waited over 12 hours.
+- Northamptonshire had the highest rate at 24.4%, nearly 3 times the England average.
+- Bedfordshire, Luton and Milton Keynes had the lowest rate at 0.1%.
+
+![NHS 12 Hour Waits Dashboard](NHS%2012%20Hour%20Waits%20Dashboard.png)
+
 
