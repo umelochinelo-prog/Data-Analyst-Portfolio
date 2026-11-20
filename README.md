@@ -79,9 +79,15 @@ Key findings:
 [Download the write-up](NHS%2012%20Hour%20Wait%20-Write-up.docx)
 
 ## Project 4: NHS A&E 4-Hour Waits (Python)
-**Tools:** Python (pandas, matplotlib), Jupyter Notebook
-**Data:** NHS England Monthly A&E Attendances, October 2026
-**Goal:** Find which hospitals have the longest A&E waits against the 4-hour target.
+**Tools:** 
+Python (pandas, matplotlib), Jupyter Notebook
+
+**Data:**
+NHS England Monthly A&E Attendances, October 2026
+
+**Goal:**
+Find which hospitals have the longest A&E waits against the 4-hour target.
+
 **Key findings:**
 - Across England, 40.1% of patients at major A&Es waited over 4 hours.
 - University Hospitals Plymouth had the longest waits (63.1%).
