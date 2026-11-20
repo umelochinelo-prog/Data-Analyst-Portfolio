@@ -74,4 +74,8 @@ Key findings:
 
 ![NHS 12 Hour Waits Dashboard](NHS%2012%20Hour%20Waits%20Dashboard.png)
 
+[Download the Excel file](NHS%2012%20Hour%20Waits%20March%202026.xlsx)
+
+[Download the write-up](NHS%2012%20Hour%20Wait%20-Write-up.docx)
+
 
