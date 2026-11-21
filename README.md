@@ -95,4 +95,28 @@ Find which hospitals have the longest A&E waits against the 4-hour target.
 ![Longest waits chart](NHS%20AE%20Longest%20Waits%20October%202026.png)
 [View the Python notebook](NHS%20AE%20October%202026%20Analysis%20.ipynb)
 
+## Project 5: NHS Ambulance Response Times (SQL)
+
+**Tools:** SQL (Oracle 21c XE, Oracle SQL Developer)
+
+**Data:** NHS England Ambulance Quality Indicators (AmbSYS), 11 ambulance trusts, April 2025 to October 2026 (209 rows)
+
+**Goal:** Measure Category 2 ambulance response times against the 18 minute national standard and the 25 minute 2026/27 interim target.
+
+**Skills used:** filtering, sorting, aggregation (SUM, COUNT, weighted averages), GROUP BY, CASE WHEN performance ratings (RAG), CTEs and JOINs
+
+**Key findings:**
+
+- England's Category 2 average was 32.7 minutes in October 2026, well above the 25 minute interim target and the 18 minute standard.
+
+- None of the 11 trusts met the 18 minute standard. Only North East and North West met the 25 minute target.
+
+- East of England was the slowest region (45.2 minutes) and North West the fastest (24.8 minutes).
+
+- January 2026 was the worst month (35.1 minutes) and April 2026 the best (24.4 minutes).
+
+- Year on year, South Western got 7.8 minutes slower, while West Midlands improved by 6.5 minutes.
+
+[View the SQL code](NHS_Ambulance_Analysis.sql)
+
 
