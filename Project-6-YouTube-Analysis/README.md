@@ -2,7 +2,7 @@
 
 **Tool:** Power BI | **Data:** 123 videos from YouTube Studio (Tales by Juliet)
 
-![Dashboard](YouTube_Dashboard.png.png)
+![Dashboard](YouTube_Dashboard.png..png)
 
 ## Goal
 Find out why some videos get many views and others don't, and what to do to grow the channel.
